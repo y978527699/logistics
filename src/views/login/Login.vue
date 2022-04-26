@@ -22,7 +22,7 @@
         <!-- 登录面板 -->
         <div class="login-box">
             <div class="login-box-title">
-                后台管理系统
+                物流管理系统
             </div>
             <div class="login-box-from">
                 <el-form :model="loginForm" :rules="rules" ref="loginForm"  class="demo-ruleForm">

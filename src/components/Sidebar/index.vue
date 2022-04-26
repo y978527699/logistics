@@ -1,6 +1,6 @@
 <template>
   <div class="sidebar">
-    <div class="sidebar-title">后台管理系统</div>
+    <div class="sidebar-title">物流管理系统</div>
     <div class="sidebar-box">
       <el-menu
         class="el-menu-vertical-demo"

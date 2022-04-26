@@ -3,7 +3,7 @@
         <!-- 头部 -->
         <div class="index-head">
             <div class="index-head-title">
-                工作台
+                首页
             </div>
             <el-row>
                 <el-col  :xs="24" :sm="24" :md="14" :lg="12" :xl="12">
